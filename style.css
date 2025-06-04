@@ -1,0 +1,23 @@
+a:link{
+    color: red;
+}
+
+a:hover{
+    background-color: blue;
+}
+
+a:active{
+    color: yellow;
+}
+
+input:focus{
+    color: blueviolet;
+}
+
+button:hover{
+    color:aqua;
+}
+
+button:active{
+    color: lightgreen;
+}
