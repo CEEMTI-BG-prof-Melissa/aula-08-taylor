@@ -1,7 +1,9 @@
 a:link{
     color: red;
 }
-
+a:visited{
+    background-color: #ccc;
+}
 a:hover{
     background-color: blue;
 }
